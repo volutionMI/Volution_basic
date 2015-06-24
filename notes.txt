@@ -1,0 +1,46 @@
+Bootstrap integrated into Wordpress course
+database: coursesource
+username root
+password rood
+
+
+wp admin mbuecking
+mbuecking
+
+lesson eight skipped adjustment for admin bar while logged in.
+
+
+<script>
+get document name (document.getElementById
+
+
+mford@adagiographics.com
+m@coll!e59
+
+302057
+
+
+If we are inside of a Loop and want to get the current count, we would write $the_query->
+
+Write out the function and parameter needed to enable featured images in a WordPress theme
+
+To enable Post Thumbnails, the current theme must include add_theme_support( 'post-thumbnails' )
+
+get_the_post_thumbnail 
+$post_id
+
+
+
+: Creating a Portfolio Landing Page18:28
+
+portfoli0
+custom post
+
+advanced custom fiels
+$args = array (
+'post type' => 'portfolio'
+
+);
+$the_query = new WP_Query ( $args );
+
+/>
